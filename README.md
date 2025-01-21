@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosesdecode
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently lprogramming
+- 🌱 I’m currently programming
 - 💞️ I’m looking to collaborate on any cs related activities
 - 📫 How to reach me 
 - 😄 Pronouns: ...
